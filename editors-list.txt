@@ -1,0 +1,836 @@
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-02.xml
+Description: Kara Hofmeister
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-03.xml
+Description: Kara Hofmeister
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-04.xml
+Description: Kara Hofmeister
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-05.xml
+Description: Kara Hofmeister
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-06.xml
+Description: Kara Hofmeister
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-07.xml
+Description: Kara Hofmeister
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-09.xml
+Description: William Crawford
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-10.xml
+Description: William Crawford
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-11.xml
+Description: Your name
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-12.xml
+Description: William Crawford
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-13.xml
+Description: Your name
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-14.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-16.xml
+Description: Andres Acosta
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-23.xml
+Description: Matthew Cooper
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-24.xml
+Description: Matthew Cooper
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-25.xml
+Description: Matthew Cooper
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-26.xml
+Description: Matthew Cooper
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-27.xml
+Description: Matthew Cooper
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-28.xml
+Description: Matthew Cooper
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-30.xml
+Description: Daisy Vazquez
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-01-31.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-01.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-02.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-03.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-04.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-06.xml
+Description: Brandon Barrett
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-07.xml
+Description: Brandon Barrett
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-08.xml
+Description: Brandon Barrett
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-09.xml
+Description: Brandon Barrett
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-10.xml
+Description: Brandon Barrett
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-11.xml
+Description: Brandon Barrett
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-20.xml
+Description: Taj Ali
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-21.xml
+Description: Taj Ali
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-27.xml
+Description: Jacob Baenen
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-02-28.xml
+Description: Jacob Baenen
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-03-06.xml
+Description: Elizabeth Barrett
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-03-07.xml
+Description: Elizabeth Barrett
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-03-20.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-03-27.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-03-28.xml
+Description: Courtney Coyle
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-03-29.xml
+Description: Courtney Coyle
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-03.xml
+Description: David Gressgott
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-04.xml
+Description: David Gressgott
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-05.xml
+Description: David Gressgott
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-06.xml
+Description: David Gressgott
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-07.xml
+Description: David Gressgott
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-08.xml
+Description: David Gressgott
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-10.xml
+Description: Alexander Caliendo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-11.xml
+Description: Alexander Caliendo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-12.xml
+Description: Alexander Caliendo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-13.xml
+Description: Alexander Caliendo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-14.xml
+Description: Alexander Caliendo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-15.xml
+Description: Alexander Caliendo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-17.xml
+Description: Riley Ouellette
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-18.xml
+Description: Riley Ouellette
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-19.xml
+Description: Riley Ouellette
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-20.xml
+Description: Riley Ouellette
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-22.xml
+Description: Riley Ouellette
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-24.xml
+Description: Jacob Stefonek
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-25.xml
+Description: Jacob Stefonek
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-26.xml
+Description: Jacob Stefonek
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-27.xml
+Description: Jacob Stefonek
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-28.xml
+Description: Jacob Stefonek
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-04-29.xml
+Description: Jacob Stefonek
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-02.xml
+Description: Dante Grieco
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-03.xml
+Description: Dante Grieco
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-04.xml
+Description: Dante Grieco
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-05.xml
+Description: Dante Grieco
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-06.xml
+Description: Dante Grieco
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-08.xml
+Description: Cassandra Frederick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-09.xml
+Description: Cassandra Frederick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-10.xml
+Description: Cassandra Frederick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-11.xml
+Description: Cassandra Frederick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-12.xml
+Description: Cassandra Frederick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-13.xml
+Description: Cassandra Frederick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-15.xml
+Description: Valerie Curcio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-16.xml
+Description: Valerie Curcio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-17.xml
+Description: Valerie Curcio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-18.xml
+Description: Valerie Curcio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-19.xml
+Description: Valerie Curcio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-20.xml
+Description: Valerie Curcio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-22.xml
+Description: Anet Crespo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-23.xml
+Description: Anet Crespo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-24.xml
+Description: Anet Crespo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-25.xml
+Description: Anet Crespo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-26.xml
+Description: Anet Crespo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-27.xml
+Description: Anet Crespo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-29.xml
+Description: John White
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-30.xml
+Description: John White
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-05-31.xml
+Description: John White
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-01.xml
+Description: John White
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-02.xml
+Description: John White
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-03.xml
+Description: John White
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-05.xml
+Description: Joseph Chack-On
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-06.xml
+Description: Joseph Chack-On
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-07.xml
+Description: Joseph Chack-On
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-12.xml
+Description: Thomas Corzo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-16.xml
+Description: Thomas Corzo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-17.xml
+Description: Thomas Corzo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-19.xml
+Description: Kedric Heyward
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-20.xml
+Description: Kedric Heyward
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-21.xml
+Description: Kedric Heyward
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-22.xml
+Description: Kedric Heyward
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-23.xml
+Description: Kedric Heyward
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-24.xml
+Description: Kedric Heyward
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-26.xml
+Description: Max Conway
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-27.xml
+Description: Max Conway
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-28.xml
+Description: Max Conway
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-29.xml
+Description: Max Conway
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-06-30.xml
+Description: Max Conway
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-01.xml
+Description: Max Conway
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-03.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-07.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-10.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-11.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-12.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-13.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-14.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-15.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-17.xml
+Description: Quentin Coombs
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-24.xml
+Description: Brayan Barbosa 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-25.xml
+Description: Brayan Barbosa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-26.xml
+Description: Brayan Barbosa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-27.xml
+Description: Brayan Barbosa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-28.xml
+Description: Brayan Barbosa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-29.xml
+Description: Brayan Barbosa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-07-31.xml
+Description: Tanner Doring
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-01.xml
+Description: Tanner Doring
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-07.xml
+Description: Melizza Black
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-08.xml
+Description: Melizza Black
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-09.xml
+Description: Melizza Black
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-10.xml
+Description: Melizza Black
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-11.xml
+Description: Melizza Black
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-12.xml
+Description: Melizza Black
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-14.xml
+Description: Zachary Reddick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-15.xml
+Description: Zachary Reddick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-16.xml
+Description: Zachary Reddick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-17.xml
+Description: Zachary Reddick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-18.xml
+Description: Zachary Reddick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-19.xml
+Description: Zachary Reddick
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-21.xml
+Description: Charlie Rymer
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-22.xml
+Description: Charlie Rymer
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-23.xml
+Description: Charlie Rymer
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-24.xml
+Description: Charlie Rymer
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-25.xml
+Description: Charlie Rymer
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-26.xml
+Description: Charlie Rymer
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-28.xml
+Description: Erek Cyr
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-29.xml
+Description: Erek Cyr
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-30.xml
+Description: Erek Cyr
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-08-31.xml
+Description: Erek Cyr
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-01.xml
+Description: Erek Cyr
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-02.xml
+Description: Erek Cyr
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-04.xml
+Description: Hannah Sain
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-05.xml
+Description: Hannah Sain
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-06.xml
+Description: Hannah Sain
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-07.xml
+Description: Hannah Sain
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-08.xml
+Description: Hannah Sain
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-09.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-11.xml
+Description:  Diana Fajardo
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-18.xml
+Description: Alexander Amorello
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-19.xml
+Description: Alexander Amorello
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-20.xml
+Description: Alexander Amorello
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-21.xml
+Description: Alexander Amorello
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-22.xml
+Description: Alexander Amorello
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-23.xml
+Description: Alexander Amorello
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-25.xml
+Description: Logan Wills
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-26.xml
+Description: Logan Wills
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-27.xml
+Description: Logan Wills
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-28.xml
+Description: Logan Wills
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-29.xml
+Description: Logan Wills
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-09-30.xml
+Description: Logan Wills
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-02.xml
+Description: Gwen Lofman
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-03.xml
+Description: Gwen Lofman
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-04.xml
+Description: Gwen Lofman
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-05.xml
+Description: Gwen Lofman
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-06.xml
+Description: Gwen Lofman
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-07.xml
+Description: Gwen Lofman
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-09.xml
+Description: Christian Ragland
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-10.xml
+Description: Christian Ragland
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-11.xml
+Description: Christian Ragland
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-12.xml
+Description: Christian Ragland
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-13.xml
+Description: Christian Ragland
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-14.xml
+Description: Christian Ragland
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-16.xml
+Description: Brooklyn Vincent
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-17.xml
+Description: Brooklyn Vincent
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-18.xml
+Description: Brooklyn Vincent
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-19.xml
+Description: Brooklyn Vincent
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-20.xml
+Description: Brooklyn Vincent
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-21.xml
+Description: Brooklyn Vincent
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-23.xml
+Description: Johanna Eugenio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-24.xml
+Description: Johanna Eugenio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-25.xml
+Description: Johanna Eugenio 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-26.xml
+Description: Johanna Eugenio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-27.xml
+Description: Johanna Eugenio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-28.xml
+Description: Johanna Eugenio
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-30.xml
+Description: Hank Thompson
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-10-31.xml
+Description: Hank Thompson
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-01.xml
+Description: Hank Thompson
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-02.xml
+Description: Hank Thompson
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-03.xml
+Description: Hank Thompson
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-04.xml
+Description: Hank Thompson
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-06.xml
+Description: Olivia Evanoff
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-07.xml
+Description: Olivia Evanoff
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-08.xml
+Description: Olivia Evanoff
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-09.xml
+Description: Olivia Evanoff
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-10.xml
+Description: Olivia Evanoff
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-11.xml
+Description: Olivia Evanoff
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-13.xml
+Description: Emma Taylor
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-14.xml
+Description: Emma Taylor
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-15.xml
+Description: Emma Taylor
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-16.xml
+Description: Emma Taylor
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-17.xml
+Description: Emma Taylor
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-18.xml
+Description: Emma Taylor
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-20.xml
+Description: Amber Fling
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-21.xml
+Description: Amber Fling
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-22.xml
+Description: Amber Fling
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-23.xml
+Description: Amber Fling
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-24.xml
+Description: Amber Fling
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-25.xml
+Description: Amber Fling
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-27.xml
+Description: Samantha Lappin
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-29.xml
+Description: Samantha Lappin
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-11-30.xml
+Description: Samantha Lappin
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-01.xml
+Description: Samantha Lappin
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-02.xml
+Description: Samantha Lappin
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-04.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-11.xml
+Description: Justin Esteve
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-12.xml
+Description: Justin Esteve
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-13.xml
+Description: Justin Esteve
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-14.xml
+Description: Justin Esteve
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-15.xml
+Description: Justin Esteve
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-16.xml
+Description: Justin Esteve
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-18.xml
+Description: Jacob Amador
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-19.xml
+Description: Jacob Amador
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-26.xml
+Description: Celita Summa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-27.xml
+Description: Celita Summa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-28.xml
+Description: Celita Summa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-29.xml
+Description: Celita Summa
+
+System ID: /Users/whanley/GitHub/DEG:content/1905-12-30.xml
+Description: Celita Summa
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-01-02.xml
+Description: Madison Flick
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-01-03.xml
+Description: Madison Flick
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-01-08.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-01-15.xml
+Description: Cameron C. Greco
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-02-05.xml
+Description: Jeffrey Hayden
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-02-06.xml
+Description: Jeffrey Hayden
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-02-19.xml
+Description: Alexia Horton
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-02-20.xml
+Description: Alexia Horton
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-02-27.xml
+Description: Jasmine Johnson 
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-03-12.xml
+Description: Rosalyn Baxter
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-03-13.xml
+Description: Rosalyn Baxter
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-04-02.xml
+Description: Taylor Cwikla
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-04-03.xml
+Description: Taylor Cwikla
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-04-09.xml
+Description: Adrian Martinez
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-04-17.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-04-18.xml
+Description: 
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-04-23.xml
+Description: Marsella Migdalski
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-04-30.xml
+Description: Jonathan Morales
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-05-07.XML
+Description: Anthony Muniz
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-05-14.xml
+Description: Joseph Ng
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-05-21.xml
+Description: SabrinaNunez
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-05-28.xml
+Description: Jordan Frazier
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-06-04.xml
+Description: William Ortiz
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-06-18.xml
+Description: Katherine Parish
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-06-25.xml
+Description: Will Pearce
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-06-26.xml
+Description: Will Pearce
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-07-09.xml
+Description: Justin Petersen
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-07-10.xml
+Description: Justin Petersen
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-07-11.xml
+Description: Justin Petersen
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-07-30.xml
+Description: Jaime Sepulveda
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-08-13.xml
+Description: Quin Smith
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-08-20.xml
+Description: Joshua Story
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-08-21.xml
+Description: Joshua Story
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-08-27.xml
+Description: Kenneth Ukah
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-09-03.xml
+Description: Caroline Vaverek
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-09-04.xml
+Description: Caroline Vaverek
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-09-10.xml
+Description: Erin Webster
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-09-24.xml
+Description: Aliza Anderson
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-10-01.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-10-02.xml
+Description: Will Hanley
+
+System ID: /Users/whanley/GitHub/DEG:content/1906-10-03.xml
+Description: Will Hanley
